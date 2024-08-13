@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋, I'm Magali Escobar
+A Full-Stack software developer from Resistencia, Chaco, Argentina 🇦🇷
 
 <!--
 **magaliescobar/magaliescobar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
